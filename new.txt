@@ -12,3 +12,8 @@ ubuntu
 ide
 debugger
 atmel stdio
+
+
+processor
+controller
+

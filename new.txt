@@ -13,4 +13,8 @@ ide
 debugger
 atmel stdio
 
+
+processor
+controller
+
 done by changes

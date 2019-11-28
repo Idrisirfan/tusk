@@ -7,3 +7,8 @@ Welcome new folder
 cprogram
 keil
 ubuntu
+
+
+ide
+debugger
+atmel stdio
